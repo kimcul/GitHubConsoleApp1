@@ -23,6 +23,8 @@ namespace GitHubConsoleApp1
             Console.WriteLine("#0001 분기 변경2");
 
             Console.WriteLine("#0001 분기 변경3");
+
+            Console.WriteLine("개발서버새로운분기");
         }
     }
 }
