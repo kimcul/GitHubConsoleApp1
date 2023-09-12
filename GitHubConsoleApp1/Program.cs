@@ -14,6 +14,8 @@ namespace GitHubConsoleApp1
             Console.WriteLine("테스트");
             Console.WriteLine("테스트");
             Console.WriteLine("테스트");
+
+            Console.WriteLine("분기1 변경1");
         }
     }
 }
