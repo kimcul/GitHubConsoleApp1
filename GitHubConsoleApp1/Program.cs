@@ -10,7 +10,7 @@ namespace GitHubConsoleApp1
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("테스트");
         }
     }
 }
