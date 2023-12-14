@@ -27,6 +27,8 @@ namespace GitHubConsoleApp1
             Console.WriteLine("개발서버새로운분기");
 
             Console.WriteLine("새로운 내용 변경");
+
+            Console.WriteLine("202312");
         }
     }
 }
