@@ -29,6 +29,10 @@ namespace GitHubConsoleApp1
             Console.WriteLine("새로운 내용 변경");
 
             Console.WriteLine("202312");
+
+            Console.WriteLine("202312-02");
+
+            Console.WriteLine("202312-02");
         }
     }
 }
