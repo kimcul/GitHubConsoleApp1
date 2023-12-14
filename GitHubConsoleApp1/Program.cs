@@ -33,6 +33,8 @@ namespace GitHubConsoleApp1
             Console.WriteLine("202312-02");
 
             Console.WriteLine("202312-02");
+
+            Console.WriteLine("스테이시");
         }
     }
 }
